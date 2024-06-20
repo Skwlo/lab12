@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  my-website:
+  html:
     image: 1950580563480/html:latest
     ports:
       - "80:80"
